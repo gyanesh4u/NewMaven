@@ -12,6 +12,7 @@ public class AmazonTest
 	{
 		System.setProperty("webdriver.chrome.driver","./driver/chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
+		driver.manage().window().maximize();
 		driver.get("http://www.amazon.in");
 		driver.close();
 	}

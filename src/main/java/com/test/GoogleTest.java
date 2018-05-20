@@ -10,6 +10,7 @@ public class GoogleTest {
 	{
 		System.setProperty("webdriver.chrome.driver","./driver/chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
+		driver.manage().window().maximize();
 		driver.get("http://www.google.com");
 		driver.close();
 	}

@@ -2,34 +2,34 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="suite of suites" duration-ms="0" started-at="2018-05-19T11:34:57Z" finished-at="2018-05-19T11:34:57Z">
+  <suite name="suite of suites" duration-ms="0" started-at="2018-05-20T17:53:53Z" finished-at="2018-05-20T17:53:53Z">
     <groups>
     </groups>
   </suite> <!-- suite of suites -->
-  <suite name="Suite1" duration-ms="25070" started-at="2018-05-19T11:33:54Z" finished-at="2018-05-19T11:34:19Z">
+  <suite name="Suite1" duration-ms="84385" started-at="2018-05-20T17:51:07Z" finished-at="2018-05-20T17:52:31Z">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="25070" started-at="2018-05-19T11:33:54Z" finished-at="2018-05-19T11:34:19Z">
+    <test name="Test1" duration-ms="84385" started-at="2018-05-20T17:51:07Z" finished-at="2018-05-20T17:52:31Z">
       <class name="com.test1.Flipkart">
-        <test-method status="PASS" signature="amazonTest()[pri:0, instance:com.test1.Flipkart@13969fbe]" name="amazonTest" duration-ms="25049" started-at="2018-05-19T17:03:54Z" finished-at="2018-05-19T17:04:19Z">
+        <test-method status="PASS" signature="amazonTest()[pri:0, instance:com.test1.Flipkart@13969fbe]" name="amazonTest" duration-ms="84369" started-at="2018-05-20T23:21:07Z" finished-at="2018-05-20T23:22:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- amazonTest -->
       </class> <!-- com.test1.Flipkart -->
     </test> <!-- Test1 -->
   </suite> <!-- Suite1 -->
-  <suite name="Suite2" duration-ms="38043" started-at="2018-05-19T11:34:19Z" finished-at="2018-05-19T11:34:57Z">
+  <suite name="Suite2" duration-ms="79964" started-at="2018-05-20T17:52:32Z" finished-at="2018-05-20T17:53:52Z">
     <groups>
     </groups>
-    <test name="Test2" duration-ms="38043" started-at="2018-05-19T11:34:19Z" finished-at="2018-05-19T11:34:57Z">
+    <test name="Test2" duration-ms="79964" started-at="2018-05-20T17:52:32Z" finished-at="2018-05-20T17:53:52Z">
       <class name="com.test.AmazonTest">
-        <test-method status="PASS" signature="amazonTest()[pri:0, instance:com.test.AmazonTest@90f6bfd]" name="amazonTest" duration-ms="26873" started-at="2018-05-19T17:04:19Z" finished-at="2018-05-19T17:04:46Z">
+        <test-method status="PASS" signature="amazonTest()[pri:0, instance:com.test.AmazonTest@90f6bfd]" name="amazonTest" duration-ms="61069" started-at="2018-05-20T23:22:32Z" finished-at="2018-05-20T23:23:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- amazonTest -->
       </class> <!-- com.test.AmazonTest -->
       <class name="com.test.GoogleTest">
-        <test-method status="PASS" signature="googleTest()[pri:0, instance:com.test.GoogleTest@4157f54e]" name="googleTest" duration-ms="11169" started-at="2018-05-19T17:04:46Z" finished-at="2018-05-19T17:04:57Z">
+        <test-method status="PASS" signature="googleTest()[pri:0, instance:com.test.GoogleTest@4157f54e]" name="googleTest" duration-ms="18895" started-at="2018-05-20T23:23:33Z" finished-at="2018-05-20T23:23:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- googleTest -->
